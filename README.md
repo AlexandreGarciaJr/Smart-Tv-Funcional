@@ -10,6 +10,6 @@
 ## Funcionalidades
 
 - Troca de canais
+- Seleção de canais
 - Aumento e diminuição de volume
 - Ligar e Desligar
-- Seleção de canais
