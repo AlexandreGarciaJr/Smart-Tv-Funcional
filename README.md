@@ -1,4 +1,4 @@
-### 📺 Smart TV Funcional
+### 📺 TV Funcional
 
 - #### Interação de usuário com funções de TV
 
