@@ -1,6 +1,6 @@
-### 📺 Smart TV Funcional
+### 📺 TV Funcional
 
-- #### Repositório de interação de usuário com TV
+- #### Interação de usuário com funções de TV
 
 ### Tecnologias:
 
